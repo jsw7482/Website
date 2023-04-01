@@ -11,6 +11,7 @@
 
 .flex-container{
     display:flex;
+    flex-direction: row-reverse;
     background-image: linear-gradient(to right, pink, purple);
 }
 
