@@ -16,49 +16,17 @@
 }
 
 .flex-container > div{
-    background-color: pink;
+    background-color: none;
     margin: 10px;
     padding: 20px;
     font-size: 30px;
 }
 
-.button1{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: pink;
-  border: none;
-  color: black;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
+.center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
 }
-
-.button1:hover {
-    background-color: pink;
-    color: white;
-  }
-
-.button2{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: pink;
-  border: none;
-  color:black;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-
-.button2:hover {
-    background-color: pink;
-    color: white;
-  }
 
 .header{
   text-align: center;
