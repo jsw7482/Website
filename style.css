@@ -58,3 +58,17 @@
     background-color: pink;
     color: white;
   }
+
+.header{
+  text-align: center;
+}
+
+.paragraph{
+  text-align: center;
+}
+
+.resumepdf{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
