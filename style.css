@@ -9,23 +9,38 @@
     font-style: italic;
 }
 
-.flex-container{
+.navigation-bar{
     display:flex;
     flex-direction: row-reverse;
     background-image: linear-gradient(to right, pink, purple);
 }
 
-.flex-container > div{
+.navigation-bar > div{
     background-color: none;
     margin: 10px;
     padding: 20px;
-    font-size: 30px;
+    font-size: 20px;
+}
+
+.navigation-link{
+  color: black;
+}
+
+.contact-link{
+  color: black;
 }
 
 .center{
   display:block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.footer{
+  display:flex;
+  justify-content: space-around;
+  align-content: flex-end;
+  
 }
 
 .header{
@@ -40,4 +55,5 @@
   width: 100%;
   margin-left: auto;
   margin-right: auto;
+  border: 3px solid purple;
 }
