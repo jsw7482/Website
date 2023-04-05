@@ -39,7 +39,7 @@
 .footer{
   display:flex;
   justify-content: space-around;
-  align-content: flex-end;
+  align-content: center;
   
 }
 
@@ -50,7 +50,6 @@
 .paragraph{
   text-align: justify;
   font-size: 20px;
-  
 }
 
 .resumepdf{
@@ -60,6 +59,24 @@
   border: 3px solid purple;
 }
 
-img{
-  float: left
+.img{
+  float: left;
+  margin-right: 30px;
+}
+
+.aparagraph{
+  text-align: justify;
+  margin-right: 30px;
+  font-size: 20px;
+  padding-left: 20px;
+  padding: auto;
+  padding-top: 30px;
+}
+
+.icons{
+  width: 10%
+}
+
+.links{
+  display: inline;
 }
