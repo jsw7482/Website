@@ -28,6 +28,13 @@
 
 .contact-link{
   color: black;
+  text-decoration: none;
+  
+}
+
+.contact-link:hover{
+  text-decoration: underline;
+  color:gray;
 }
 
 .center{
