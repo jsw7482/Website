@@ -71,10 +71,11 @@
 }
 
 .resumepdf{
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+  width: 80%;
+  height:80vh;
   border: 3px solid purple;
+  margin-left: 160px;
+  margin-right: 150px;
 }
 
 .img{
