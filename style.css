@@ -115,3 +115,9 @@
 #header-stuff{
   margin-bottom: 100px;
 }
+
+.cparagraph{
+  text-align: justify;
+  margin-top: 125px;
+  font-size: 20px;
+}
