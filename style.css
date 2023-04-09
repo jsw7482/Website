@@ -9,6 +9,11 @@
     font-style: italic;
 }
 
+.intro{
+  text-align: center;
+  font-size: 15px;
+}
+
 .navigation-bar{
     display:flex;
     flex-direction: row-reverse;
@@ -24,6 +29,12 @@
 
 .navigation-link{
   color: black;
+  text-decoration: none;
+}
+
+.navigation-link:hover{
+  text-decoration: underline;
+  color:gray;
 }
 
 .contact-link{
@@ -81,9 +92,26 @@
 }
 
 .icons{
-  width: 10%
+  width: 10%;
+  align-content: center;
+  margin-left: 15px;
 }
 
 .links{
   display: inline;
+}
+
+.school{
+  float:right;
+  margin-left: 30px;
+}
+
+.bparagraph{
+  text-align: justify;
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+#header-stuff{
+  margin-bottom: 100px;
 }
