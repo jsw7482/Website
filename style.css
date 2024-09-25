@@ -1,5 +1,5 @@
 .body{
-    background-image: linear-gradient(to right, pink, purple);
+    background-color: dimgrey;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -17,7 +17,7 @@
 .navigation-bar{
     display:flex;
     flex-direction: row-reverse;
-    background-image: linear-gradient(to right, pink, purple);
+    background-color: dimgray;
 }
 
 .navigation-bar > div{
